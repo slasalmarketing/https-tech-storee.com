@@ -288,9 +288,7 @@ element.style {
 }
 مسئوله عن تظبيط الفوتر 
  */
-
-
 .md\:flex {
     display: contents !important;
-    /* background: brown; */
+     background: white !important; 
 }
