@@ -295,3 +295,7 @@ element.style {
 .s-button-primary:hover {
     background-color:#f3f4f6 !important ;
 }
+
+.s-button-primary:hover {
+    background-color: #ff7e00 !important;
+}
