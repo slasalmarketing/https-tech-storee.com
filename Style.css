@@ -292,3 +292,6 @@ element.style {
     display: contents !important;
      background: white !important; 
 }
+.s-button-primary:hover {
+    background-color:#f3f4f6 !important ;
+}
