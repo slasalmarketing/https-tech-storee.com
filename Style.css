@@ -291,6 +291,6 @@ element.style {
 
 
 .md\:flex {
-    display: contents;
+    display: contents !important;
     /* background: brown; */
 }
